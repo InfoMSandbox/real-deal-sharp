@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Dan At Sharp Healthcare
 
 ![labtocat](https://octodex.github.com/images/labtocat.png)
 {: .center}
